@@ -1,7 +1,7 @@
 # Mahamudat ✋
-[<img align="left" alt="Mahamudat| LinkedIn" width="22px" src="./#0A66C2" ][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/mahamudat-oke-abiodun/
+[<img align="left" alt="Mahamudat| LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
+[<img align="left" alt="Mahamudat| gmail" width="22px" src=".gmail.svg" />][gmail]
+[gmail]:Mahamudatoke@gmail.com
 Welcome to my GitHub profile! 
 I am a highly skilled data analyst with a passion for transforming raw data into meaningful insights.
 As a data analyst, my expertise lies in meticulous data cleaning, exploration, and visualisation to uncover hidden patterns and trends that helps bussinesses to make informed, data driven decisions.
