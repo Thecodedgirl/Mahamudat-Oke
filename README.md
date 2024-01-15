@@ -1,5 +1,5 @@
 # Mahamudat ✋
-[<img align="left" alt="Mahamudat| LinkedIn" width="22px" src="./linkedin.svg" ][linkedin]
+[<img align="left" alt="Mahamudat| LinkedIn" width="22px" src="./#0A66C2" ][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/mahamudat-oke-abiodun/
 Welcome to my GitHub profile! 
