@@ -1,5 +1,4 @@
-# Mahamudat ✋
-<a href="https://www.linkedin.com/in/mahamudat-oke-abiodun/" target="_blank">
+# Mahamudat ✋<a href="https://www.linkedin.com/in/mahamudat-oke-abiodun/" target="_blank">
   <img align="left" alt="Mahamudat | LinkedIn" width="22px" src="./linkedin.svg" />
 </a>
 <a href="mailto:Mahamudatoke@gmail.com">
