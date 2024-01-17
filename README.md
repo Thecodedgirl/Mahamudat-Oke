@@ -2,6 +2,9 @@
 <a href="https://www.linkedin.com/in/mahamudat-oke-abiodun/" target="_blank">
   <img align="left" alt="Mahamudat | LinkedIn" width="22px" src="./linkedin.svg" />
 </a>
+<a href="https://mahamudatoke@gmail.com/" target="_blank">
+  <img align="left" alt="Mahamudat | LinkedIn" width="22px" src="./gmail.svg" />
+</a>
  
 Welcome to my GitHub profile! 
 I am a highly skilled data analyst with a passion for transforming raw data into meaningful insights.
