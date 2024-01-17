@@ -6,6 +6,7 @@
   <img align="left" alt="Mahamudat | LinkedIn" width="22px" src="./gmail.svg" />
 </a>
  
+
 Welcome to my GitHub profile! 
 I am a highly skilled data analyst with a passion for transforming raw data into meaningful insights.
 As a data analyst, my expertise lies in meticulous data cleaning, exploration, and visualisation to uncover hidden patterns and trends that helps bussinesses to make informed, data driven decisions.
