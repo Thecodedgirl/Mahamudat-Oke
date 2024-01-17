@@ -1,6 +1,7 @@
 # Mahamudat ✋
-[<img align="left" alt="Mahamudat | LinkedIn" width="22px" src="./linkedin.svg" />][<linkedin>]
- [linkedin]:https://www.linkedin.com/in/mahamudat-oke-abiodun/
+<a href="https://www.linkedin.com/in/mahamudat-oke-abiodun/" target="_blank">
+  <img align="left" alt="Mahamudat | LinkedIn" width="22px" src="./linkedin.svg" />
+</a>
  
 Welcome to my GitHub profile! 
 I am a highly skilled data analyst with a passion for transforming raw data into meaningful insights.
