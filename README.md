@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/mahamudat-oke-abiodun/" target="_blank">
   <img align="left" alt="Mahamudat | LinkedIn" width="22px" src="./linkedin.svg" />
 </a>
-<a href="https://mahamudatoke@gmail.com/" target="_blank">
+<a href="mailto:your.email@gmail.com">
   <img align="left" alt="Mahamudat | LinkedIn" width="22px" src="./gmail.svg" />
 </a>
  
