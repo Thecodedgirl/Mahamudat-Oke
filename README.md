@@ -1,11 +1,14 @@
-<h1>Mahamudat ✋
+<h1>
+Mahamudat ✋
+<br>
+<br>
 <a href="https://www.linkedin.com/in/mahamudat-oke-abiodun/" target="_blank">
   <img align="left" alt="Mahamudat | LinkedIn" width="22px" src="./linkedin.svg" />
 </a>
 <a href="mailto:Mahamudatoke@gmail.com">
   <img align="left" alt="Mahamudat | LinkedIn" width="22px" src="./gmail.svg" />
-</a> </h1>
-<br>
+</a> 
+<br></h1>
 Welcome to my GitHub profile! 
 I am a highly skilled data analyst with a passion for transforming raw data into meaningful insights.
 As a data analyst, my expertise lies in meticulous data cleaning, exploration, and visualisation to uncover hidden patterns and trends that helps bussinesses to make informed, data driven decisions.
