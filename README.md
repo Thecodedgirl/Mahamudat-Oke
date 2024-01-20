@@ -3,7 +3,7 @@ Mahamudat ✋
 <br>
 <br>
 <a href="https://www.linkedin.com/in/mahamudat-oke-abiodun/" target="_blank">
-  <img align="left" alt="Mahamudat | LinkedIn" width="22px" src="./linkedin.svg" />
+  <img align="left" alt="Mahamudat | LinkedIn" width="22px" src="./linkedin.png" />
 </a>
 <a href="mailto:Mahamudatoke@gmail.com">
   <img align="left" alt="Mahamudat | LinkedIn" width="22px" src="./gmail.svg" />
